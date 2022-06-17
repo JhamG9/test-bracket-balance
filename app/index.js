@@ -21,3 +21,5 @@ function validateBracketBalance(value) {
 console.log("1", validateBracketBalance('{}[]()')); // true
 console.log("2", validateBracketBalance('{}[]({)]')); // false
 console.log("3", validateBracketBalance('{()}([])')); // false
+
+module.exports = validateBracketBalance;
