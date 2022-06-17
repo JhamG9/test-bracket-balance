@@ -1,0 +1,12 @@
+{
+  "name": "bracket-balance",
+  "version": "1.0.0",
+  "description": "validate if string is a bracket balance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jham Giron",
+  "license": "ISC"
+}
